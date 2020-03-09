@@ -1,0 +1,3 @@
+user/password :ubuntu/ubuntu
+
+IP address : 18.222.184.154
